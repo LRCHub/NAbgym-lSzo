@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "未成熟",
+  "base_artist": "中田裕二",
+  "createdAt": "2025-12-05T18:25:21.744354Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未成熟",
+      "artist": "中田裕二",
+      "has_synced": false,
+      "path": "select/pl_01_未成熟_中田裕二.txt"
+    }
+  ]
+}
